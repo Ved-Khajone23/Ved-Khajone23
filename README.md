@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vedhanshu Khajone.
 - 👀 I’m interested in _**AI-ML, Software Development, Electronics, Google Cloud**._
 - 🌱 I’m currently learning and developing my basics skills.
-- 💞️ I’m looking to collaborate on any project based on my intrest.
+- 🤝 I’m looking to collaborate on any project based on my intrest.
 - 📫 How to reach me at https://www.linkedin.com/in/vedkhajone
 - 😄 Pronouns: He/Him
 - 🏢 Currently at : Sanjivani College OF Engineering
